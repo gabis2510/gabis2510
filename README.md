@@ -1,4 +1,4 @@
-### Hi there 👋
+### Prazer meu nome é Gabi, e você está visitando meu perfil 👋
 
 <!--
 **gabis2510/gabis2510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
